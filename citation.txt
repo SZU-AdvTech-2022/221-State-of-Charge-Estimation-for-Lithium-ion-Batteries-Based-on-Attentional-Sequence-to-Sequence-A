@@ -1,0 +1,9 @@
+@article{REPO-222,
+    author = "Tian, Yong and Lai, Rucong and Li, Xiaoyu and Tian, Jindong",
+    journal = "Journal of Energy Storage",
+    pages = "106836",
+    publisher = "Elsevier",
+    title = "{State-of-Charge Estimation for Lithium-ion Batteries Based on Attentional Sequence-to-Sequence Architecture}",
+    volume = "62",
+    year = "2023"
+}
