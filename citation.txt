@@ -1,4 +1,4 @@
-@article{REPO-222,
+@article{REPO-221,
     author = "Tian, Yong and Lai, Rucong and Li, Xiaoyu and Tian, Jindong",
     journal = "Journal of Energy Storage",
     pages = "106836",
